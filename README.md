@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Hülya Rana Karabulut</h1>
-<h3 align="center">🎓 Bilgisayar Programlama Öğrencisi | Python ve Yazılım Geliştirme</h3>
+<h3 align="center">🎓 Bilgisayar Mühendisliği Öğrencisi | Python ve Yazılım Geliştirme</h3>
 
 - 🔭 Şu anda **Başlangıç ​​Seviyesi Python Projeleri** üzerinde çalışıyorum
 
